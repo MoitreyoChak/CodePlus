@@ -1,7 +1,5 @@
 # CodePlus
 
-# Scalable Code Execution Platform
-
 A cloud-native, microservices-based, scalable code execution platform supporting multiple languages with Docker-isolated workers.
 
 ## System Design
